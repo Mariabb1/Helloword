@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-image:url("/HTML/img/imga.webp");
+    background-position: right top;
+    
+}
+
+
+h1 {
+    color: rgb(204, 0, 255);
+    text-align: center;
+    font-size:50pt;
+}
+.intro {
+    color:#331f46;
+    font-size:20pt;
+    text-align: center;
+   
+   
+}
+
+a {
+    color: rgb(255, 0, 200);
+        text-align: center;
+    font-size:20pt;
+}
+
+
+#contenido {
+    padding: 20px;
+    border: double #360464;
+    border-width: 8px;
+    border-radius: 25px;
+    margin: 50px 200px;
+     font-size:20pt;
+     text-align: center;
+     background-color: rgb(221, 215, 250);
+}
+
+
+.titulo {
+  font-family: "Crimson Pro", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
